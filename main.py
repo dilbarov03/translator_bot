@@ -8,7 +8,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 import sqlite3
 import translators as ts
 
-TOKEN = "5362541820:AAESZ1FIRtPWTXTN1kqPPX_uyTHSbeE7w0I"
+TOKEN = ""
 
 storage = MemoryStorage()
 bot = Bot(token=TOKEN)
